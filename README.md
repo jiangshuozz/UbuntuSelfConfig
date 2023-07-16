@@ -1,0 +1,3 @@
+# UbuntuSelfConfig
+
+## Ubuntu env init
